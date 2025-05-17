@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1688007847 source:f:\utn\laboratorio\quinientos o escalera\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<windows.h>
+	"rlutil.h"
+	<iomanip>
+	<tuple>
+
+1687957810 f:\utn\laboratorio\quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
